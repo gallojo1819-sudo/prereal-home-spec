@@ -1,11 +1,12 @@
-# PreReal Home spec
+# PreReal product specs (docs only — not an app)
 
-Engineering spec for `/ceo` (Home): one exception board, honest pills, no duplicate task lists.
+This repo is **markdown specs**. It is not Thesium, not a Vercel build, not production code.
 
-**Send this file to engineering:**
+## Specs
 
-[PRE-REAL-HOME-REDESIGN-SPEC.md](./PRE-REAL-HOME-REDESIGN-SPEC.md)
+- [Home `/ceo`](./PRE-REAL-HOME-REDESIGN-SPEC.md) — shipped to engineering
+- [Walkthrough checklists](./PRE-REAL-WALKTHROUGH-CHECKLISTS.md) — fill these next, tab by tab
 
-Direct link: https://github.com/gallojo1819-sudo/prereal-home-spec/blob/main/PRE-REAL-HOME-REDESIGN-SPEC.md
+## Order
 
-Raw download: https://raw.githubusercontent.com/gallojo1819-sudo/prereal-home-spec/main/PRE-REAL-HOME-REDESIGN-SPEC.md
+Home (done) → Ask → Needs you → Accountability → Project status → Records → Research → Add Data
